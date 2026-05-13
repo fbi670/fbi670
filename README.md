@@ -47,18 +47,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbi670&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fbi670&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🔗 Connect With Me
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)]([https://orcid.org/YOUR-ORCID-ID](https://orcid.org/0009-0001-9122-1647))
-[![Email](https://img.shields.io/badge/EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Janssonjeremy@Proton.me)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Janssonjeremy@Proton.me)
 
 ---
 
